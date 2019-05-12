@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-# v2.18.3
+# v2.18.5
 
-Attempt to fix teams bug.
+Fix help command bug when using external plugins.
+
+# v2.18.4
+
+Fix the teams permission bug.
 
 # v2.18.2
 
